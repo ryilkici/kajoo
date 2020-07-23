@@ -4,15 +4,15 @@ to be able to use some machine learning algorithms practically like clustering o
 The interface has written with Python PyQt5 and PySide2 packages. The functions in the backend
 of the application has written with NumPy, Pandas and Scikit-learn packages. **For download [click here.](https://github.com/ryilkici/kajoo)**
 
-<img src="https://github.com/ryilkici/kajoo/blob/master/img/11.png" width="600" height="390">
+<img src="https://github.com/ryilkici/kajoo/blob/master/img/11.png" width="600" height="390" style={:class="img-responsive"}>
 
 - The user can open a .csv file or save a .csv file with Kajoo.
 
-<img src="https://github.com/ryilkici/kajoo/blob/master/img/22.png" width="600" height="390">
+<img src="https://github.com/ryilkici/kajoo/blob/master/img/22.png" width="600" height="390">{:class="img-responsive"}
 
 - The user can calculate descriptive statistics of any data practically and can see data types of variables.
 
-<img src="https://github.com/ryilkici/kajoo/blob/master/img/33.png" width="600" height="390">
+<img src="https://github.com/ryilkici/kajoo/blob/master/img/33.png" width="600" height="390" style={"class:img-responsive"}>
 
 - The user can cluster the data with Kajoo. In this tab (below figure), user can cluster only two variables. At the same time, the user can decide the cluster number with elbow graph.
 
