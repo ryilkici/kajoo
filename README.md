@@ -30,4 +30,4 @@ of the application has written with NumPy, Pandas and Scikit-learn packages.
 
 <img src="https://github.com/ryilkici/kajoo/blob/master/img/7.png" width="600" height="390">
 
-**Kajoo currently has only Turkish language support and just clustering and some regression algorithms. There will be more options and languages in the future.**
+**Kajoo has only Turkish language support and just clustering and, some regression algorithms. There will be more options and languages in the future.**
