@@ -2,7 +2,7 @@
 **Kajoo** is a practical interface for machine learning algorithms. The aim of this application,
 to be able to use some machine learning algorithms practically like clustering or regression.
 The interface has written with Python PyQt5 and PySide2 packages. The functions in the backend
-of the application has written with NumPy, Pandas and Scikit-learn packages.
+of the application has written with NumPy, Pandas and Scikit-learn packages. **For download [click here.](https://github.com/ryilkici/kajoo)**
 
 <img src="https://github.com/ryilkici/kajoo/blob/master/img/11.png" width="600" height="390">
 
